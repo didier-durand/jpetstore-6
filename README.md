@@ -1,3 +1,9 @@
+ATTENTION: this repo is a fork of https://github.com/mybatis/jpetstore-6.
+
+Please, rather go the original to get last updates!
+
+==================================================================
+
 MyBatis JPetStore
 =================
 
